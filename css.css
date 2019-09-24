@@ -1,3 +1,63 @@
 @charset "utf-8";
 /* CSS Document */
+*{box-sizing:border-box}
+body{
+	background color:black;
+}
 
+
+#container{
+	width 1020px;
+	margin:0 auto;
+}
+
+
+#header{
+	background-image:url("youtube-logo.png");
+	width:100%;
+	height:155px;
+	
+}
+
+
+nav {background-color:lightpink;
+width:100%;
+height:35px;
+margin-tops:4px;
+}
+
+#sports{
+	width:32%;
+	background-color:lightblue;
+	height:400px;
+	float:left;
+	margin-right:15px;
+}
+
+#news{
+	width:30%;
+	background-color:red;
+	height:480px;
+	margin-right:15px;
+	border:thick solid
+}
+
+#entertainment{
+	width:30%;
+	background-color:dimgray;
+	height:400px;
+	float:left;
+}
+
+#artl{
+	padding-top:5px;
+	padding-right:10px;
+	padding-left:10px;	
+}
+
+footer{
+	background color:blue;
+	width:100%;
+	height:30px;
+	clear:both;
+}
