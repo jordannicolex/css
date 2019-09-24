@@ -20,7 +20,8 @@ background-color:black;
 }
 
 
-nav {background-color:lightpink;
+nav {
+	background-color:lightpink;
 width:100%;
 height:35px;
 margin-tops:4px;
@@ -28,14 +29,14 @@ margin-tops:4px;
 
 #sports{
 	width:32%;
-	background-color:lightblue;
+	background-color:green;
 	height:400px;
 	float:left;
 	margin-right:15px;
 }
 
 #news{
-	width:30%;
+	width:32%;
 	background-color:red;
 	height:480px;
 	margin-right:15px;
@@ -43,7 +44,7 @@ margin-tops:4px;
 }
 
 #entertainment{
-	width:30%;
+	width:32%;
 	background-color:gray;
 	height:400px;
 	float:left;
